@@ -369,7 +369,7 @@ client.channels.find('id', '475284490286268426').setName("Welcome To CL");
 client.channels.find('id', '475284490286268426').setName("Welcome To CLA");
 client.channels.find('id', '475284490286268426').setName("Welcome To CLAN");
 client.channels.find('id', '475284490286268426').setName("Welcome To CLAN BF");
-  }, 400);
+  }, 4000);
 });
 
 
