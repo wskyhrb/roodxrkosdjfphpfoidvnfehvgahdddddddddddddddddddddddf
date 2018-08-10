@@ -1317,7 +1317,7 @@ message.channel.send(`**:white_check_mark: ${user.tag} banned from the server ! 
 
 
   client.on('ready', () => {
-     client.user.setActivity("b-help",{type: 'WATCHING'});
+     client.user.setActivity("b-help 20 server",{type: 'WATCHING'});
 
 });
   
