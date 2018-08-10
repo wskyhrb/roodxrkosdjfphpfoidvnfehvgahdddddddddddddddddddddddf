@@ -1485,7 +1485,16 @@ client.users.forEach(m =>{
 m.sendMessage(args)
 })
 }
-}) onsole.log('')
-});
+}) 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
 
 client.login(process.env.BOT_TOKEN);
