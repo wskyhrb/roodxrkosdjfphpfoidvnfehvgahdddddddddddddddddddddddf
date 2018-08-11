@@ -487,7 +487,7 @@ client.on('message', message => {
 **
 :small_orange_diamond:   البوت يكتب الي ��نت تكتبه في صورة
 b-say
-l_orange_diamond:   لمسح الشات
+:l_orange_diamond:   لمسح الشات
 b-clear
 :small_orange_diamond:   للباند
 b-ban
