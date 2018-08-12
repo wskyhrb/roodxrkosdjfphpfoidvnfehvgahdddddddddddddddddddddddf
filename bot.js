@@ -532,7 +532,7 @@ b-vc
 
  ----
 رابط السبورت البوت
- https://discord.gg/T26nWg
+ https://discord.gg/FYPEkz
 ----------
 رابط دعوة البوت
 https://discordapp.com/api/oauth2/authorize?client_id=476788319833817088&permissions=8&scope=bot
